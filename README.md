@@ -8,7 +8,7 @@ Source Dataset : Schoter <br>
 # 📂 Stage 0: Business Understanding
 ## ERD :
 <p align="center">
-    <kbd> <img width="1000" alt="erd" src="https://www.notion.so/Schoter-Transaction-298b185a749280ef8ec7f122faae7869?source=copy_link#298b185a749280108c04df93dd0299ef"> </kbd> <br>
+    <kbd> <img width="1000" alt="erd" src="https://drive.google.com/file/d/12TOY3UL4TPUcHvix1f1adNvBR7gV3ktw/view?usp=sharing"> </kbd> <br>
     Gambar 1 — ERD Dashbaord
 </p>
 
