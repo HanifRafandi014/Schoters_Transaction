@@ -9,7 +9,7 @@ Source Dataset : Schoter <br>
 ## ERD :
 <p align="center">
     <kbd> <img width="1000" alt="erd" src="erd schoter.png"> </kbd> <br>
-    Gambar 1 — ERD Dashbaord
+    Gambar 1 — ERD Dashboard
 </p>
 
 ## Tugas :
