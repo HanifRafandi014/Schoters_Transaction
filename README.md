@@ -6,7 +6,7 @@ Visualization : Looker, Tableau, Notebook <br>
 Source Dataset : Schoter <br>
 
 # 📂 Stage 0: Business Understanding
-## ERD :
+## Entity Relationship Diagram :
 <p align="center">
     <kbd> <img width="1000" alt="erd" src="erd schoter.png"> </kbd> <br>
     Gambar 1 — ERD Dashboard
